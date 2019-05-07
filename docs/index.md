@@ -12,18 +12,16 @@ I highly recommend downloading it for Windows or Linux.
 
 There is a guide to the game in [English](guide) as well as in [German](anleitung).
 
-[To the online version](./electrica-online.html)
 
 ## Links
 
 * [Play online](online)
-* [Download the paper](https://github.com/JM4ier/electrica-builds/raw/paper/matura-paper.pdf)
-* [Repository containing downloads](https://github.com/JM4ier/electrica-builds)
+* [Download the paper](https://github.com/JM4ier/electrica/raw/master/resources/matura-paper.pdf)
 
 ### Game Downloads
-* [Windows](https://github.com/JM4ier/electrica-builds/archive/windows.zip)
-* [Linux](https://github.com/JM4ier/electrica-builds/archive/linux.zip)
-* [MacOS](https://github.com/JM4ier/electrica-builds/archive/macos.zip)
-* [WebGL](https://github.com/JM4ier/electrica-builds/archive/webgl.zip)
+* [Windows](https://github.com/JM4ier/electrica/raw/master/builds/current/windows.zip)
+* [Linux](https://github.com/JM4ier/electrica/raw/master/builds/current/linux.zip)
+* [MacOS](https://github.com/JM4ier/electrica/raw/master/builds/current/macos.zip)
+* [WebGL](https://github.com/JM4ier/electrica/raw/master/builds/current/webgl.zip)
 
 
