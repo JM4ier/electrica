@@ -12,7 +12,6 @@ which is the reason why it is rather hard for a person with no knowledge in elec
 
 The game can be played on Windows, Linux, MacOS, or directly in the browser. You can find the download links below or [try out the game online](online).
 However, before playing, I recommend to read through the quick guide to the game, as there is no such guide in the game.
-[Guide in English](guide), [Guide in German](anleitung)
 
 
 ## Links
