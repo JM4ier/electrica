@@ -1,4 +1,6 @@
-﻿[Download Page](..) - [Anleitung in Deutsch](../anleitung)
+﻿# Guide
+
+[Download Page](..) -- [Anleitung in Deutsch](../anleitung)
 
 ## Explanation to the versions
 The game can be played on three different platforms:

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# The Video game
+# Electrica
 
 This page contains all resources to my video game Electrica.
 The premise of the game is that you can build any logic circuit.
@@ -14,7 +14,7 @@ The game can be played on Windows, Linux, MacOS, or directly in the browser. You
 However, before playing, I recommend to read through the quick guide to the game, as there is no such guide in the game.
 
 
-## Links
+## Related Resources
 
 ### Guides
 * [Guide in English](guide)

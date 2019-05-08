@@ -1,4 +1,6 @@
-﻿[Download Seite](..) - [Guide in English](../guide)
+﻿# Anleitung
+
+[Download Seite](..) -- [Guide in English](../guide)
 
 ## Erklärung zu den Versionen
 Das Spiel Electrica kann auf drei Plattforment gespielt werden:
